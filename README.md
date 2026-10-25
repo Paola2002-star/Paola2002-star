@@ -1,13 +1,15 @@
 
 <div align="center">
 
-# Hi, I'm Paola Reyes! 🌷
+<img src="./banner.svg" alt="Paola Reyes | Software Engineer & Frontend Developer" width="100%" />
 
-### Software Engineer · Full Stack Developer
+<br>
+
+### 🌷 Hi there! Welcome to my GitHub
 
 *Building meaningful software with creativity, curiosity and a little touch of pink.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=D77FA6&center=true&vCenter=true&width=550&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer;Passionate+about+AI+%26+Automation;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=D77FA6&center=true&vCenter=true&width=550&lines=Software+Engineer;Full+Stack+Developer;Frontend+%26+UX%2FUI+Enthusiast;Passionate+about+AI+%26+Automation;Always+learning%2C+always+building" alt="Typing animation" />
 
 <br>
 
@@ -27,7 +29,7 @@ I'm **Paola**, a Software Engineer passionate about developing solutions that co
 I enjoy working across the full development process, from creating intuitive interfaces to building backend systems and integrating intelligent technologies.
 
 - 💻 **Full Stack Development** — Building modern web applications.
-- 🎨 **UX/UI Design** — Creating clean and user-friendly experiences.
+- 🎨 **Frontend & UX/UI** — Creating responsive, clean and user-friendly experiences.
 - 🤖 **Artificial Intelligence** — Exploring AI-powered solutions.
 - ⚙️ **Automation** — Improving workflows through technology.
 - 🚀 **Aerospace Enthusiast** — Interested in space exploration and engineering.
@@ -42,11 +44,15 @@ I enjoy working across the full development process, from creating intuitive int
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=light" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=light" alt="Frontend technologies" />
+
+<br>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend technologies" />
+
+<br>
 
 ### Development Tools
 
@@ -60,10 +66,10 @@ I enjoy working across the full development process, from creating intuitive int
 
 | Area | Focus |
 |:---|:---|
+| **Frontend & UX/UI** | Responsive interfaces and user experience |
 | **Full Stack Development** | Web applications, REST APIs and databases |
 | **Business Applications** | Internal platforms and workflow management |
 | **AI Integrations** | Intelligent document processing and automation |
-| **UX/UI** | Responsive interfaces and usability |
 | **System Design** | Application architecture and business logic |
 
 ---
@@ -72,31 +78,25 @@ I enjoy working across the full development process, from creating intuitive int
 
 Some of my professional experience includes building and improving internal business applications.
 
-**Financial & Administrative Systems**
+### 01 / Financial & Administrative Systems
 
 Development of tools for financial workflows, expense management and banking reconciliation.
 
-**Recruitment & Workflow Automation**
+`Full Stack` · `REST APIs` · `Data Processing`
+
+### 02 / Recruitment & Workflow Automation
 
 Building internal recruitment platforms, process automation and candidate management features.
 
-**AI-Powered Document Processing**
+`React` · `Node.js` · `MongoDB`
+
+### 03 / AI-Powered Document Processing
 
 Integrating intelligent technologies to assist with document analysis and information extraction.
 
-*Professional projects are described at a high level to respect confidentiality.*
+`AI Integrations` · `Automation` · `APIs`
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Paola2002-star&show_icons=true&theme=rose_pine&hide_border=true&hide_title=false" height="170" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paola2002-star&layout=compact&theme=rose_pine&hide_border=true" height="170" alt="Top languages" />
-
-</div>
+<sub>Professional projects are described at a high level to respect confidentiality.</sub>
 
 ---
 
@@ -104,10 +104,10 @@ Integrating intelligent technologies to assist with document analysis and inform
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FCE4EC?style=for-the-badge&logoColor=333333)
-![Automation](https://img.shields.io/badge/Automation-F8BBD0?style=for-the-badge&logoColor=333333)
-![System Design](https://img.shields.io/badge/System_Design-FCE4EC?style=for-the-badge&logoColor=333333)
-![Aerospace](https://img.shields.io/badge/Aerospace_Engineering-F8BBD0?style=for-the-badge&logoColor=333333)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FCE4EC?style=flat-square&logoColor=333333)
+![Automation](https://img.shields.io/badge/Automation-F8BBD0?style=flat-square&logoColor=333333)
+![System Design](https://img.shields.io/badge/System_Design-FCE4EC?style=flat-square&logoColor=333333)
+![Aerospace](https://img.shields.io/badge/Aerospace_Engineering-F8BBD0?style=flat-square&logoColor=333333)
 
 </div>
 
