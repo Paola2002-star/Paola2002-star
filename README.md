@@ -265,6 +265,5 @@ Siempre estoy interesada en aprender, compartir ideas y explorar nuevas oportuni
 
 *Seguir aprendiendo. Seguir desarrollando. Seguir creciendo.*
 
-**Hecho con ♡, código y un pequeño toque de rosa.**
 
 </div>
