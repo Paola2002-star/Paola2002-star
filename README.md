@@ -1,15 +1,15 @@
 
 <div align="center">
 
-<img src="./banner.svg" alt="Paola Reyes | Software Engineer & Frontend Developer" width="100%" />
+<img src="./banner.svg" alt="Paola Reyes | Ingeniería de Software y Desarrollo Full Stack" width="100%" />
 
 <br>
 
-### 🌷 Hi there! Welcome to my GitHub
+### 🌷 ¡Hola! Bienvenido a mi GitHub
 
-*Building meaningful software with creativity, curiosity and a little touch of pink.*
+*Transformando ideas en soluciones digitales con creatividad, tecnología y un pequeño toque de rosa.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=D77FA6&center=true&vCenter=true&width=550&lines=Software+Engineer;Full+Stack+Developer;Frontend+%26+UX%2FUI+Enthusiast;Passionate+about+AI+%26+Automation;Always+learning%2C+always+building" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=D77FA6&center=true&vCenter=true&width=580&lines=Ingeniera+de+Software;Desarrolladora+Full+Stack;Frontend+%26+Backend;Inteligencia+Artificial+y+Automatizacion;Siempre+aprendiendo+y+creando" alt="Mis especialidades" />
 
 <br>
 
@@ -22,92 +22,103 @@
 
 ---
 
-## 🌸 About Me
+## 🌸 Sobre mí
 
-I'm **Paola**, a Software Engineer passionate about developing solutions that combine technology, functionality and thoughtful design.
+¡Hola! Soy **Paola**, Ingeniera de Software apasionada por desarrollar soluciones que combinen tecnología, funcionalidad y un buen diseño.
 
-I enjoy working across the full development process, from creating intuitive interfaces to building backend systems and integrating intelligent technologies.
+Me gusta participar en todo el proceso de desarrollo, desde la creación de interfaces intuitivas hasta la construcción de APIs, lógica de negocio, bases de datos e integraciones entre sistemas.
 
-- 💻 **Full Stack Development** — Building modern web applications.
-- 🎨 **Frontend & UX/UI** — Creating responsive, clean and user-friendly experiences.
-- 🤖 **Artificial Intelligence** — Exploring AI-powered solutions.
-- ⚙️ **Automation** — Improving workflows through technology.
-- 🚀 **Aerospace Enthusiast** — Interested in space exploration and engineering.
+Disfruto transformar procesos complejos en aplicaciones prácticas, eficientes y fáciles de utilizar.
 
-> "Great software is not just about writing code. It's about solving real problems."
+- 💻 **Desarrollo Full Stack** — Aplicaciones web completas, desde frontend hasta backend.
+- 🎨 **Frontend y UX/UI** — Interfaces responsivas, intuitivas y centradas en el usuario.
+- ⚙️ **Backend y APIs** — Servicios, lógica de negocio e integración de sistemas.
+- 🤖 **Inteligencia Artificial** — Procesamiento inteligente de documentos e integración de modelos de IA.
+- 🔄 **Automatización** — Optimización de procesos y flujos de trabajo.
+- 🚀 **Ingeniería Aeroespacial** — Interés por la tecnología espacial y la exploración del universo.
+
+> "El buen software no consiste solo en escribir código, sino en resolver problemas reales."
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=light" alt="Frontend technologies" />
-
-<br>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=light" alt="Tecnologías frontend" />
 
 <br>
 
-### Development Tools
+### ⚙️ Backend y bases de datos
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Tecnologías backend" />
+
+<br>
+
+### 🧰 Herramientas de desarrollo
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" alt="Herramientas de desarrollo" />
 
 </div>
 
 ---
 
-## 💗 Areas of Experience
+## 💗 Áreas de experiencia
 
-| Area | Focus |
+| Área | Especialización |
 |:---|:---|
-| **Frontend & UX/UI** | Responsive interfaces and user experience |
-| **Full Stack Development** | Web applications, REST APIs and databases |
-| **Business Applications** | Internal platforms and workflow management |
-| **AI Integrations** | Intelligent document processing and automation |
-| **System Design** | Application architecture and business logic |
+| **Desarrollo Full Stack** | Aplicaciones web, APIs REST y bases de datos |
+| **Frontend y UX/UI** | Interfaces responsivas y experiencia de usuario |
+| **Backend** | Servicios, lógica de negocio e integraciones |
+| **Aplicaciones empresariales** | Plataformas internas y gestión de procesos |
+| **Inteligencia Artificial** | Análisis documental y procesamiento de información |
+| **Automatización** | Integración de herramientas y optimización de flujos |
+| **Arquitectura de software** | Organización de componentes y lógica de aplicaciones |
 
 ---
 
-## ✨ Selected Work
+## ✨ Experiencia en proyectos
 
-Some of my professional experience includes building and improving internal business applications.
+A lo largo de mi experiencia profesional he participado en el desarrollo y mejora de aplicaciones empresariales, trabajando tanto en frontend como en backend.
 
-### 01 / Financial & Administrative Systems
+### 01 / Sistemas financieros y administrativos
 
-Development of tools for financial workflows, expense management and banking reconciliation.
+Desarrollo de herramientas para la gestión de gastos, conciliación bancaria y administración de procesos financieros.
 
-`Full Stack` · `REST APIs` · `Data Processing`
+`React` · `Node.js` · `MongoDB` · `APIs REST`
 
-### 02 / Recruitment & Workflow Automation
+### 02 / Sistemas de reclutamiento y automatización
 
-Building internal recruitment platforms, process automation and candidate management features.
+Desarrollo de plataformas para la administración de vacantes, seguimiento de candidatos y automatización de procesos internos.
 
-`React` · `Node.js` · `MongoDB`
+`Frontend` · `Backend` · `Integraciones` · `Automatización`
 
-### 03 / AI-Powered Document Processing
+### 03 / Procesamiento inteligente de documentos
 
-Integrating intelligent technologies to assist with document analysis and information extraction.
+Integración de herramientas de inteligencia artificial para el análisis documental, extracción de información y automatización de tareas.
 
-`AI Integrations` · `Automation` · `APIs`
+`Inteligencia Artificial` · `APIs` · `Procesamiento de datos`
 
-<sub>Professional projects are described at a high level to respect confidentiality.</sub>
+### 04 / Interfaces y aplicaciones web
+
+Desarrollo y mantenimiento de interfaces responsivas, formularios, paneles administrativos y herramientas de gestión.
+
+`React` · `TypeScript` · `JavaScript` · `UX/UI`
+
+<sub>Los proyectos profesionales se describen de manera general para respetar la confidencialidad de la información.</sub>
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Actualmente explorando
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FCE4EC?style=flat-square&logoColor=333333)
-![Automation](https://img.shields.io/badge/Automation-F8BBD0?style=flat-square&logoColor=333333)
-![System Design](https://img.shields.io/badge/System_Design-FCE4EC?style=flat-square&logoColor=333333)
-![Aerospace](https://img.shields.io/badge/Aerospace_Engineering-F8BBD0?style=flat-square&logoColor=333333)
+![IA](https://img.shields.io/badge/Inteligencia_Artificial-FCE4EC?style=flat-square&logoColor=333333)
+![Automatización](https://img.shields.io/badge/Automatización-F8BBD0?style=flat-square&logoColor=333333)
+![Arquitectura](https://img.shields.io/badge/Arquitectura_de_Software-FCE4EC?style=flat-square&logoColor=333333)
+![Aeroespacial](https://img.shields.io/badge/Ingeniería_Aeroespacial-F8BBD0?style=flat-square&logoColor=333333)
 
 </div>
 
@@ -115,16 +126,16 @@ Integrating intelligent technologies to assist with document analysis and inform
 
 <div align="center">
 
-### Let's Connect ♡
+### Conectemos ♡
 
-I'm always interested in learning, collaborating and exploring new ideas in technology.
+Siempre estoy interesada en aprender, compartir ideas y explorar nuevas oportunidades para crear soluciones con tecnología.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Paola2002--star-D77FA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paola2002-star)
 
 <br>
 
-*Keep learning. Keep building. Keep growing.*
+*Seguir aprendiendo. Seguir desarrollando. Seguir creciendo.*
 
-**Made with ♡ and a little bit of pink.**
+**Hecho con ♡, código y un pequeño toque de rosa.**
 
 </div>
